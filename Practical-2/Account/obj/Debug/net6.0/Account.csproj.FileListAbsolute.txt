@@ -1,0 +1,15 @@
+C:\Users\jay\source\repos\Account\Account\bin\Debug\net6.0\Account.exe
+C:\Users\jay\source\repos\Account\Account\bin\Debug\net6.0\Account.deps.json
+C:\Users\jay\source\repos\Account\Account\bin\Debug\net6.0\Account.runtimeconfig.json
+C:\Users\jay\source\repos\Account\Account\bin\Debug\net6.0\Account.dll
+C:\Users\jay\source\repos\Account\Account\bin\Debug\net6.0\Account.pdb
+C:\Users\jay\source\repos\Account\Account\obj\Debug\net6.0\Account.csproj.AssemblyReference.cache
+C:\Users\jay\source\repos\Account\Account\obj\Debug\net6.0\Account.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jay\source\repos\Account\Account\obj\Debug\net6.0\Account.AssemblyInfoInputs.cache
+C:\Users\jay\source\repos\Account\Account\obj\Debug\net6.0\Account.AssemblyInfo.cs
+C:\Users\jay\source\repos\Account\Account\obj\Debug\net6.0\Account.csproj.CoreCompileInputs.cache
+C:\Users\jay\source\repos\Account\Account\obj\Debug\net6.0\Account.dll
+C:\Users\jay\source\repos\Account\Account\obj\Debug\net6.0\refint\Account.dll
+C:\Users\jay\source\repos\Account\Account\obj\Debug\net6.0\Account.pdb
+C:\Users\jay\source\repos\Account\Account\obj\Debug\net6.0\Account.genruntimeconfig.cache
+C:\Users\jay\source\repos\Account\Account\obj\Debug\net6.0\ref\Account.dll

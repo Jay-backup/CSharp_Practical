@@ -1,0 +1,15 @@
+C:\Users\jay\source\repos\Calculator\DebuggingApplication\bin\Debug\net6.0\DebuggingApplication.exe
+C:\Users\jay\source\repos\Calculator\DebuggingApplication\bin\Debug\net6.0\DebuggingApplication.deps.json
+C:\Users\jay\source\repos\Calculator\DebuggingApplication\bin\Debug\net6.0\DebuggingApplication.runtimeconfig.json
+C:\Users\jay\source\repos\Calculator\DebuggingApplication\bin\Debug\net6.0\DebuggingApplication.dll
+C:\Users\jay\source\repos\Calculator\DebuggingApplication\bin\Debug\net6.0\DebuggingApplication.pdb
+C:\Users\jay\source\repos\Calculator\DebuggingApplication\obj\Debug\net6.0\DebuggingApplication.csproj.AssemblyReference.cache
+C:\Users\jay\source\repos\Calculator\DebuggingApplication\obj\Debug\net6.0\DebuggingApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jay\source\repos\Calculator\DebuggingApplication\obj\Debug\net6.0\DebuggingApplication.AssemblyInfoInputs.cache
+C:\Users\jay\source\repos\Calculator\DebuggingApplication\obj\Debug\net6.0\DebuggingApplication.AssemblyInfo.cs
+C:\Users\jay\source\repos\Calculator\DebuggingApplication\obj\Debug\net6.0\DebuggingApplication.csproj.CoreCompileInputs.cache
+C:\Users\jay\source\repos\Calculator\DebuggingApplication\obj\Debug\net6.0\DebuggingApplication.dll
+C:\Users\jay\source\repos\Calculator\DebuggingApplication\obj\Debug\net6.0\refint\DebuggingApplication.dll
+C:\Users\jay\source\repos\Calculator\DebuggingApplication\obj\Debug\net6.0\DebuggingApplication.pdb
+C:\Users\jay\source\repos\Calculator\DebuggingApplication\obj\Debug\net6.0\DebuggingApplication.genruntimeconfig.cache
+C:\Users\jay\source\repos\Calculator\DebuggingApplication\obj\Debug\net6.0\ref\DebuggingApplication.dll

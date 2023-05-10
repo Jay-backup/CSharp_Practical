@@ -1,0 +1,15 @@
+C:\Users\jay\source\repos\Practical-5\Practical-5\obj\Debug\net7.0\Practical-5.csproj.AssemblyReference.cache
+C:\Users\jay\source\repos\Practical-5\Practical-5\obj\Debug\net7.0\Practical-5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jay\source\repos\Practical-5\Practical-5\obj\Debug\net7.0\Practical-5.AssemblyInfoInputs.cache
+C:\Users\jay\source\repos\Practical-5\Practical-5\obj\Debug\net7.0\Practical-5.AssemblyInfo.cs
+C:\Users\jay\source\repos\Practical-5\Practical-5\obj\Debug\net7.0\Practical-5.csproj.CoreCompileInputs.cache
+C:\Users\jay\source\repos\Practical-5\Practical-5\bin\Debug\net7.0\Practical-5.exe
+C:\Users\jay\source\repos\Practical-5\Practical-5\bin\Debug\net7.0\Practical-5.deps.json
+C:\Users\jay\source\repos\Practical-5\Practical-5\bin\Debug\net7.0\Practical-5.runtimeconfig.json
+C:\Users\jay\source\repos\Practical-5\Practical-5\bin\Debug\net7.0\Practical-5.dll
+C:\Users\jay\source\repos\Practical-5\Practical-5\bin\Debug\net7.0\Practical-5.pdb
+C:\Users\jay\source\repos\Practical-5\Practical-5\obj\Debug\net7.0\Practical-5.dll
+C:\Users\jay\source\repos\Practical-5\Practical-5\obj\Debug\net7.0\refint\Practical-5.dll
+C:\Users\jay\source\repos\Practical-5\Practical-5\obj\Debug\net7.0\Practical-5.pdb
+C:\Users\jay\source\repos\Practical-5\Practical-5\obj\Debug\net7.0\Practical-5.genruntimeconfig.cache
+C:\Users\jay\source\repos\Practical-5\Practical-5\obj\Debug\net7.0\ref\Practical-5.dll

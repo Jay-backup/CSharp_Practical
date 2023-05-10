@@ -1,0 +1,15 @@
+C:\Users\jay\source\repos\Practical-6\Practical-6\bin\Debug\net7.0\Practical-6.exe
+C:\Users\jay\source\repos\Practical-6\Practical-6\bin\Debug\net7.0\Practical-6.deps.json
+C:\Users\jay\source\repos\Practical-6\Practical-6\bin\Debug\net7.0\Practical-6.runtimeconfig.json
+C:\Users\jay\source\repos\Practical-6\Practical-6\bin\Debug\net7.0\Practical-6.dll
+C:\Users\jay\source\repos\Practical-6\Practical-6\bin\Debug\net7.0\Practical-6.pdb
+C:\Users\jay\source\repos\Practical-6\Practical-6\obj\Debug\net7.0\Practical-6.csproj.AssemblyReference.cache
+C:\Users\jay\source\repos\Practical-6\Practical-6\obj\Debug\net7.0\Practical-6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jay\source\repos\Practical-6\Practical-6\obj\Debug\net7.0\Practical-6.AssemblyInfoInputs.cache
+C:\Users\jay\source\repos\Practical-6\Practical-6\obj\Debug\net7.0\Practical-6.AssemblyInfo.cs
+C:\Users\jay\source\repos\Practical-6\Practical-6\obj\Debug\net7.0\Practical-6.csproj.CoreCompileInputs.cache
+C:\Users\jay\source\repos\Practical-6\Practical-6\obj\Debug\net7.0\Practical-6.dll
+C:\Users\jay\source\repos\Practical-6\Practical-6\obj\Debug\net7.0\refint\Practical-6.dll
+C:\Users\jay\source\repos\Practical-6\Practical-6\obj\Debug\net7.0\Practical-6.pdb
+C:\Users\jay\source\repos\Practical-6\Practical-6\obj\Debug\net7.0\Practical-6.genruntimeconfig.cache
+C:\Users\jay\source\repos\Practical-6\Practical-6\obj\Debug\net7.0\ref\Practical-6.dll

@@ -1,0 +1,15 @@
+C:\Users\jay\source\repos\Account\Account\bin\Debug\net6.0\Practical-2.exe
+C:\Users\jay\source\repos\Account\Account\bin\Debug\net6.0\Practical-2.deps.json
+C:\Users\jay\source\repos\Account\Account\bin\Debug\net6.0\Practical-2.runtimeconfig.json
+C:\Users\jay\source\repos\Account\Account\bin\Debug\net6.0\Practical-2.dll
+C:\Users\jay\source\repos\Account\Account\bin\Debug\net6.0\Practical-2.pdb
+C:\Users\jay\source\repos\Account\Account\obj\Debug\net6.0\Practical-2.csproj.AssemblyReference.cache
+C:\Users\jay\source\repos\Account\Account\obj\Debug\net6.0\Practical-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jay\source\repos\Account\Account\obj\Debug\net6.0\Practical-2.AssemblyInfoInputs.cache
+C:\Users\jay\source\repos\Account\Account\obj\Debug\net6.0\Practical-2.AssemblyInfo.cs
+C:\Users\jay\source\repos\Account\Account\obj\Debug\net6.0\Practical-2.csproj.CoreCompileInputs.cache
+C:\Users\jay\source\repos\Account\Account\obj\Debug\net6.0\Practical-2.dll
+C:\Users\jay\source\repos\Account\Account\obj\Debug\net6.0\refint\Practical-2.dll
+C:\Users\jay\source\repos\Account\Account\obj\Debug\net6.0\Practical-2.pdb
+C:\Users\jay\source\repos\Account\Account\obj\Debug\net6.0\Practical-2.genruntimeconfig.cache
+C:\Users\jay\source\repos\Account\Account\obj\Debug\net6.0\ref\Practical-2.dll
