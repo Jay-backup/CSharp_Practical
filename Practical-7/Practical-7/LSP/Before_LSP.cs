@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace Practical_7.LSP
 {
-    public class SumsCalculator
+    public class SumCalculator
     {
         protected readonly int[] _numbers;
 
-        public SumsCalculator(int[] numbers)
+        public SumCalculator(int[] numbers)
         {
             _numbers = numbers;
         }
@@ -38,13 +38,13 @@ namespace Practical_7.LSP
         {
             var numbers = new int[] { 5, 7, 9, 8, 1, 6, 4 };
 
-            SumsCalculator sum = new SumsCalculator(numbers);
+            SumCalculator sum = new SumCalculator(numbers);
             Console.WriteLine($"The sum of all the numbers: {sum.Calculate()}");
 
             Console.WriteLine();
 
-            SumCalculator evenSum = new EvenNumberSumCalculator(numbers);
-            Console.WriteLine($"The sum of all the even numbers: {evenSum.Calculate()}");
+            sum = new EvenNumberSumCalculator(numbers);
+            Console.WriteLine($"The sum of all the even numbers: {sum.Calculate()}");
         }
     }
 }

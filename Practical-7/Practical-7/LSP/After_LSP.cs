@@ -6,28 +6,28 @@ using System.Threading.Tasks;
 
 namespace Practical_7.LSP
 {
-    public abstract class Calculator
+    public class Sum
     {
         protected readonly int[] _numbers;
 
-        public Calculator(int[] numbers)
+        public Sum(int[] numbers)
         {
             _numbers = numbers;
         }
 
-        public abstract int Calculate();
+        public virtual int Calculate() => _numbers.Sum();
     }
-    public class SumCalculator : Calculator
+    public class SumOdd : Sum
     {
-        public SumCalculator(int[] numbers)
+        public SumOdd(int[] numbers)
             : base(numbers)
         {
         }
 
-        public override int Calculate() => _numbers.Sum();
+        public override int Calculate() => _numbers.Where(x => x % 2 != 0).Sum();
         
     }
-    public class EvenNumbersSumCalculator : Calculator
+    public class EvenNumbersSumCalculator : Sum
     {
         public EvenNumbersSumCalculator(int[] numbers)
             : base(numbers)
@@ -46,12 +46,15 @@ namespace Practical_7.LSP
         {
             var numbers = new int[] { 5, 7, 9, 8, 1, 6, 4 };
 
-            Calculator sum = new SumCalculator(numbers);
-            Console.WriteLine($"The sum of all the numbers: {sum.Calculate()}");
+            Sum calc = new Sum(numbers);
+            Console.WriteLine($"The sum of all the numbers: {calc.Calculate()}");
             Console.WriteLine();
 
-            Calculator evenSum = new EvenNumbersSumCalculator(numbers);
-            Console.WriteLine($"The sum of all the even numbers: {evenSum.Calculate()}");
+            calc = new SumOdd(numbers);
+            Console.WriteLine($"The sum of all the odd numbers: {calc.Calculate()}");
+
+            calc = new EvenNumbersSumCalculator(numbers);
+            Console.WriteLine($"The sum of all the even numbers: {calc.Calculate()}");
         }
    
     }
