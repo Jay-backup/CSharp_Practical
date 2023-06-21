@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Practical_7.ISP
 {
-    internal class After_ISP
+    internal class AfterISP
     {
         interface IDocument
         {

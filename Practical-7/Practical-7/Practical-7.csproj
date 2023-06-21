@@ -6,7 +6,7 @@
     <RootNamespace>Practical_7</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>Practical_7.LSP.Before_LSP</StartupObject>
+    <StartupObject>Practical_7.LSP.After_LSP</StartupObject>
   </PropertyGroup>
 
 </Project>

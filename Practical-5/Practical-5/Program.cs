@@ -15,7 +15,8 @@
             Console.WriteLine("----------------------------");
             for (int i=0;i<7;i++)
             {
-                Console.Write(arr[i]+", ");
+                Console.PrintLine(arr[i] + ", ");
+                //Console.Write(arr[i]+", ");
             }
         }
         catch (IndexOutOfRangeException e) 

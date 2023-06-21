@@ -40,7 +40,7 @@ namespace Practical_7.LSP
         } 
     }
 
-    class After_LSP
+    class AfterLSP
     {
         static void Main(string[] args)
         {

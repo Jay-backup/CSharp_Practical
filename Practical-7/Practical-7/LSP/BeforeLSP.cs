@@ -32,7 +32,7 @@ namespace Practical_7.LSP
         }
     }
 
-    class Before_LSP
+    class BeforeLSP
     {
         static void Main(string[] args)
         {

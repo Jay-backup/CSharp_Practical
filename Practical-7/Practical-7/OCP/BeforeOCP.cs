@@ -8,7 +8,7 @@ using System.Xml.Schema;
 namespace Practical_7.OCP
 {
    
-    public class Before_OCP
+    public class BeforeOCP
     {
         public double Width { get; set; }
         public double Height { get; set; }
